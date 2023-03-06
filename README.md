@@ -2,15 +2,6 @@
 
 A simple app to see movies and TV series ratings, description and more, and make your own personalized watchlist.
 
-## Getting Started
+## Watch Demo: https://drive.google.com/file/d/11_45CB-u7HV2FOtaJQSTEPQPisjqbgaV/view?usp=share_link
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download App: https://drive.google.com/file/d/1nIsK7f5K76NnK7q5i_YLWu0De9dPN7lU/view?usp=share_link
